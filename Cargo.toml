@@ -1,5 +1,5 @@
 [package]
-name = "bevy_game" # SpaceHuggers
+name = "spacehuggers"
 version = "0.1.0"
 publish = false
 authors = ["Joey Figaro <git@joeyfigaro.com>"]
